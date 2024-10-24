@@ -1,6 +1,6 @@
+<h1>
+Network Analyzer Tool for Home Router using Python:</h1>
 
-
-Network Analyzer Tool for Home Router using Python:
 This tool monitors incoming and outgoing network traffic on your home network router, providing real-time insights into connected devices, as well as data transmission activity. It helps identify who is connected to your network and tracks data flows for enhanced security and network management.
 
 Key Features:
