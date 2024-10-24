@@ -10,7 +10,7 @@ Security Insights: Flags potential threats based on unusual traffic patterns.
 Easy Setup: Simple installation process to get the tool running quickly.
 Real-time Updates: Continuously updated dashboard for live network monitoring.
 Technologies Used:
-Python/Node.js for backend processing
+Python
 [Network traffic monitoring library/tool]
 
 ![image](https://github.com/user-attachments/assets/eff15cc1-e1d5-493b-9cc7-c8e7fd7d6fa0)
