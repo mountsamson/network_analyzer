@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/b2ff9c7b-87bc-4309-9165-76eb165c1231)
 
 Network Analyzer Tool for Home Router using Python:
 This tool monitors incoming and outgoing network traffic on your home network router, providing real-time insights into connected devices, as well as data transmission activity. It helps identify who is connected to your network and tracks data flows for enhanced security and network management.
@@ -13,5 +13,6 @@ Technologies Used:
 Python/Node.js for backend processing
 [Network traffic monitoring library/tool]
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/eff15cc1-e1d5-493b-9cc7-c8e7fd7d6fa0)
+
 
